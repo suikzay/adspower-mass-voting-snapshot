@@ -27,3 +27,4 @@ https://t.me/chat_web3_python
 ```
 0x137223bd1428cf030211A898204f953792C07319
 ```
+English is better
